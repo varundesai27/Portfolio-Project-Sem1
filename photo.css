@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.w1 {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./images/Geometrix_Tablet_4__800_800.png);
+    background-size: cover;
+}
+
+.ptitle {
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+
+.pic {
+    height: 210px;
+    width: 168px;
+    margin: 8px 35px;
+    box-shadow: 5px 5px 5px rgba(42, 161, 149, 0.582);
+
+}

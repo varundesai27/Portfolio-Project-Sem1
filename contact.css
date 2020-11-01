@@ -1,0 +1,27 @@
+body {
+    color: white;  
+    margin: 0;
+    font-size: 2rem;
+}
+
+.wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./images/pexels-elijah-o\'donnell-3473569.jpg");
+    background-size: cover; 
+}
+
+.c {
+    margin: 40px 40px;
+    background: rgba(28, 153, 140, 0.315);
+    border-radius: 15px;
+    padding: 20px 10px;
+    
+}
+
+.line {
+    width:20%
+}
